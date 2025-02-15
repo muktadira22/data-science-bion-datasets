@@ -1,0 +1,11 @@
+Email_ID,Text,Label
+1,"Congratulations, you've won a lottery!",spam
+2,Your invoice is attached.,not spam
+3,Click here to claim your prize.,spam
+4,Meeting rescheduled to next week.,not spam
+5,Free entry in a prize draw!,spam
+6,Let's catch up over coffee.,not spam
+7,Get paid cash for taking surveys!,spam
+8,Your appointment is confirmed.,not spam
+9,"This isn't a scam, just a great opportunity!",spam
+10,Reminder: your subscription will expire soon.,not spam
